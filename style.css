@@ -1,0 +1,45 @@
+:root { --background-primary: #11111b; }
+:root { --background-secondary: #181825; }
+:root { --background-secondary-alt: #11111b; } 
+:root { --background-secondary-lighter: #1e1e2e; }
+:root { --background-textarea: #11111b; }
+
+:root { --background-modifier-hover: #313244; }
+:root { --background-modifier-selected: #313244; }
+:root { --background-modifier-accent: #45475a; }
+
+:root { --text-primary: #cdd6f4; }
+:root { --text-secondary: #bac2de; }
+:root { --text-tertiary: #bac2de; }
+:root { --text-primary-muted: #bac2de; }
+:root { --text-chat: #cdd6f4; }
+:root { --text-chat-muted: #bac2de; }
+:root { --text-link: #89b4fa; }
+:root { --text-on-brand-primary: #a6adc8;}
+
+:root { --brand-primary: #89b4fa;}
+:root { --brand-secondary: #7ba2e0;}
+:root { --text-primary: #cdd6f4; }
+:root { --text-secondary: #bac2de; }
+:root { --text-tertiary: #bac2de; }
+
+:root { --status-online: #a6e3a1; }
+:root { --accent-success: #a6e3a1; }
+:root { --alert-tip-color: #a6e3a1; }
+:root { --button-primary-fill: #a6e3a1; }
+:root { --button-primary-active-fill: #9cd497;}
+
+:root { --status-idle: #f9e2af; }
+:root { --accent-warning: #f9e2af; }
+:root { --alert-warning-color: #f9e2af; }
+
+:root { --status-dnd: #f38ba8; }
+:root { --status-danger: #f38ba8; }
+:root { --accent-danger: #f38ba8; }
+:root { --alert-caution-color: #f38ba8; }
+:root { --button-danger-fill: #f38ba8; }
+:root { --button-danger-active-fill: #e4829e; }
+:root { --buton-danger-outline-active-fill: #e4829e; }
+
+:root { --accent-purple: #cba6f7; }
+:root { --alert-important-color: #cba6f7; }
